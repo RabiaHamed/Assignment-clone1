@@ -59,12 +59,12 @@ a{
 }
 .tittle{
    position: absolute;
-   top: 60px;
+   top: 50px;
    left: 100px;
    padding: 50px;
    text-align: center;
    margin-top: 100px;
-   margin-left: 150px;
+   margin-left: 100px;
 }
 P{
     font-size: 60px;
